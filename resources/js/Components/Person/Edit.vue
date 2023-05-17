@@ -53,7 +53,7 @@ onBeforeMount(async () => {
                     "
                     :disabled="isDisabled(person.name, person.age, person.job)"
                 >
-                    Add
+                    Adds
                 </button>
             </div>
             <div>
